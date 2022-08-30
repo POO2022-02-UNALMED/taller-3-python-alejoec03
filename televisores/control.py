@@ -24,10 +24,10 @@ class Control:
     def volumenDown(self):
         self.tv.volumenDown()
     
-    def setTV(self, tv):
+    def setTv(self, tv):
         self.tv = tv
     
-    def getTV(self):
+    def getTv(self):
         return self.tv
     
     def enlazar(self,tv):
