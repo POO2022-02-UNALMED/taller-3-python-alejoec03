@@ -1,4 +1,4 @@
-#hola
+from televisores.tv import tv
 class control:
     def __init__(self, tv):
         self.TV = tv
