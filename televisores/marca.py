@@ -1,4 +1,4 @@
-class Marca:
+class marca:
     def __init__(self, nombre):
         self._nombre = nombre
 

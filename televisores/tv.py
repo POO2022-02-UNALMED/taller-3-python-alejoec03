@@ -1,4 +1,4 @@
-class TV:
+class tv:
     numTV = 0
     def __init__(self, marca,estado):
         self._marca = marca
